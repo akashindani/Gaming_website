@@ -1,0 +1,57 @@
+body{padding:0;
+margin:0;
+overflow-y:scroll;
+font-family:Arial;
+font-size:18px;
+background-image:url(technology.jpg);}
+
+#nav {
+background-color:#222;
+}
+
+#nav_wrapper{
+width:960px;
+margin-left: 20px;
+text-align: left;
+}
+#nav ul{
+list-style-type:none;
+padding:0;
+margin:0;
+postion:relative;
+
+}
+#nav ul li{
+display:inline-block;//displays all blocks in one row
+}
+#nav ul li:hover{
+background-color:#333;
+}
+
+#nav ul li a,visited{color:#ccc;
+display:block;
+padding:15px;
+text-decoration:none;
+}
+#nav ul li a:hover{
+color:#ccc;
+text-decoration:none;
+}
+#nav ul li:hover ul{
+display:block;
+}
+#nav ul ul{
+display:none;
+position:absolute;
+background-color:#333;
+}
+#nav ul ul li{
+display:block;
+}
+#nav ul ul li a,visited{color:#ccc;}
+#nav ul ul li a:hover{color:#099}
+#nav ul li img{
+vertical-align:middle;}
+
+h2{text-shadow: 5px 5px 5px #FF0000;}
+

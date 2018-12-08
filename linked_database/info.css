@@ -1,0 +1,16 @@
+center>img{width:960px;height:360px;
+border-radius:10px; border-style:solid;border-width:5px;}
+p{font-size:20px;text-align:justify;
+margin-right:150px;margin-left:10px;}
+h2{text-shadow: 1px 1px 1px YELLOW;
+}
+th{text-shadow: 1px 1px 1px YELLOW;
+border-radius:10px;border-style:solid;border-width:2px;}
+td{border-radius:10px;border-style:solid;}
+iframe{width:960px;height:360px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+margin-left:10px;
+border-radius:3px;
+padding: 12px 24px;
+box-shadow: 5px 5px 5px 5px rgba(83, 140, 223, 1);}

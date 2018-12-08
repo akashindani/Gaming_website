@@ -1,0 +1,25 @@
+<style>
+
+hr{border-color:#7FFFD4}
+div#menubar1{padding:10px;  1px dashed; }
+div#menubar1 > a{
+font-family:Arial,Helvetica,san-serif;
+font-size:17px;
+background: #333;
+padding: 12px 24px;
+color: #999;
+margin-right: 10px;
+text-decoration:none;
+border-radius:3px;
+transition: all 1000ms ease-in;
+}
+div#menubar1 > a:hover{margin-right: 20px;
+box-shadow: 5px 5px 5px 0px rgba(83, 140, 223, 1); 
+color:#FFF;
+transition: all 1000ms ease-in;
+}
+h1{color:White; }
+fieldset{color:white;}
+footer{color:white;}
+body{ margin:auto; background-color:BLACK;}
+</style>
